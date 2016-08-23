@@ -50,3 +50,19 @@ alert(person.name);
   var age = 20;
   var message = '你好,' + name + ',你今年' + age + '岁了!';
   alert(message);
+var s = 'hello';
+alert(s);
+var S = s.toUpperCase(); // 变成大写
+alert(S);
+
+s.indexOf('ll');
+alert(s.indexOf('ll'));
+var z = s.substring(0,4);
+alert(z);
+
+var arr = [1,2,3];
+arr.length;
+alert(arr.length);
+
+
+
